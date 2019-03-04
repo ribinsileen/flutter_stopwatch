@@ -1,6 +1,6 @@
 # flutter_stopwatch
 
-A new Flutter project.
+A simple stopwatch made with Flutter. Goes with the tutorial here: https://link.medium.com/waCn9AKHMU
 
 ## Getting Started
 
